@@ -24,7 +24,7 @@ namespace Ember
 
         public override string ToString()
         {
-            return $"Neve: {Nev}, Kora: {Kor}, Címe: {Cim} Fizetése: {Fizetes}";
+            return $"Neve: {Nev}, Kora: {Kor}, Címe: {Cim}, Fizetése: {Fizetes}";
         }
 
         public override bool Equals(object obj)
